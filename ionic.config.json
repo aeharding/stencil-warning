@@ -1,0 +1,7 @@
+{
+  "name": "stencil-warning",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
